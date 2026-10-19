@@ -7,6 +7,8 @@ I'm a Software Engineer with 3+ years of professional experience building backen
 
 I enjoy designing scalable APIs, event-driven systems, and reliable backend services.
 
+Recently have been working with AI enabled systems as well.
+
 ### 🛠️ Tech Stack
 
 - **Languages:** Java, Python, SQL
